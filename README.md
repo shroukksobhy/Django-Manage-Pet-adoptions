@@ -1,7 +1,13 @@
 <p>Manage Pet Adoption </p>
 <p>simple website in Django
 <p>using: Model, View, Template and URLs 
-<p>in templates i added HTML, CSS and javaScript static files 
+<h4>Added Admin Model 
+<h4>Added two class Models for pet and vaccine
+<h4>Imported the data from csv file and Used migration quries for database
+<h4>Set Two URL one for home to show all the pets in database, second to show a pet details
+<h4>Build the views and templates pages
+
+<h4>Used Python and Django framework and in templates i added HTML, CSS and javaScript static files 
 <h3>to run this project: </h3>
 <p>Make sure you have (python3, django)
     <p>1- Clone the project 
